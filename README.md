@@ -24,6 +24,7 @@ phpunit
 
 
 ##**The Test**
+-------------
 Alex suffering from Alzheimer disease, he hardly keep remember different things in his mind for example, sometimes he forgets his own home address, sometimes he forgets to change his car oil or taking daily medicines at the appropriate time. we could help him to develop a mobile application solution that would help him to remember below things,
 
 Feature#1. He could save the different locations i.e. Home; Job; Daughter home. The location should be pin at the Map.
@@ -40,7 +41,8 @@ a. Create location [based on above feature#1]
 b. Create events [based on above feature#2]
 5) Logout
 
-***[Not neccessary but good to have, for additional score]***
+***[Not neccessary but good to have, for additional score]**
+
 3) Track Alex's location and send to an email periodically (30mints).
 
 Important Note: 
