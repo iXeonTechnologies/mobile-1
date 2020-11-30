@@ -1,7 +1,7 @@
 # i-Xeon Technologies Technical Test
 ### Thank you for applying to be a developer at i-Xeon Technologies.
 
-This tech test will help us evaluate your skills.
+This tech test will help us to evaluate your skills.
 
 *You have 7 days limited time to solve this test, so take your time and be thorough.*
 
@@ -52,7 +52,7 @@ Important Note:
 
 
 The following are the technical specifications:
-a)	You can use any technologies, it will not affect your assessment score.
+a)	You can use any technology, it will not affect your assessment score.
 b)	You are free to design your own GUI.
 c)	Mobile local database would be enough to store data. However, if candidate wants other 3rd party DB or service/REST API can be used for storage. 
 d)	You can add additional features to the application if you want.
